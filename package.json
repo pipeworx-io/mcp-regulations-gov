@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-regulations-gov",
+  "version": "0.1.0",
+  "description": "Regulations.gov MCP — federal regulatory dockets, documents, public comments",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "regulations-gov"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-regulations-gov"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
