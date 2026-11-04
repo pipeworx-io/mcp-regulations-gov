@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-regulations-gov",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Regulations.gov MCP — federal regulatory dockets, documents, public comments",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "regulations-gov",
     "gatewaySlug": "regulations-gov",
-    "sourceHash": "v1-3313254cc98850e482a69529e9e517683382bc07477931f4a24b729c18dc7ad3",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-17aa5ebde8b2f2660f9342c4b20eb918e57482c16719bc70b9b646491fd26e62",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }

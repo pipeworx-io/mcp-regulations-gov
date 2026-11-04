@@ -2,7 +2,7 @@
 
 Regulations.gov v4 MCP — federal regulatory dockets, documents, public comments.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1856+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1866+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
 
 ## Tools
 
@@ -21,7 +21,7 @@ Free tier: 1,000 req/hour.
 
 ## Data source
 
-`https://api.regulations.gov/v4/` — header `X-Api-Key`, JSON:API format.
+Regulations.gov v4 — header `X-Api-Key`, JSON:API format.
 
 ## Quick Start
 
@@ -67,7 +67,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1856+ data sources. The
+Both URLs reach the same gateway and the same 1866+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
